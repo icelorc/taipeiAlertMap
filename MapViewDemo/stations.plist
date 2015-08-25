@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>25.021915</real>
+		<key>long</key>
+		<real>121.534421</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Chennai Beach</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.026162</real>
+		<key>long</key>
+		<real>121.534861</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Chennai Fort</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.026867</real>
+		<key>long</key>
+		<real>121.525959</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Park Town</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.034267</real>
+		<key>long</key>
+		<real>121.527169</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Chintadripet</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.034267</real>
+		<key>long</key>
+		<real>121.527169</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Chepak</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.038605</real>
+		<key>long</key>
+		<real>121.517793</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Thiruvallikeni</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.038126</real>
+		<key>long</key>
+		<real>121.517172</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Light House</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.038803</real>
+		<key>long</key>
+		<real>121.512756</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Mundakakanni Koil</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.042359</real>
+		<key>long</key>
+		<real>121.513144</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Thirumayilai</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>25.042241</real>
+		<key>long</key>
+		<real>121.510368</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Mandaveli</string>
+	</dict>
+</array>
+</plist>
